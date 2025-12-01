@@ -54,7 +54,7 @@ My everyday toolkit for robust development:
 ### 🏆 GitHub Milestones
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BeastNectus&theme=flat_dim&no-frame=true&row=1&column=4&margin-w=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BeastNectus&theme=juicyfresh&no-frame=true&row=1&column=4&margin-w=10" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
