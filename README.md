@@ -7,7 +7,7 @@
 <a href="https://www.johnmamanao.com"><img src="https://img.shields.io/badge/Portfolio-johnmamanao.com-c8aa6e?style=for-the-badge&labelColor=12110f" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/john-mamanao-762218278"><img src="https://img.shields.io/badge/LinkedIn-John%20Mamanao-c8aa6e?style=for-the-badge&logo=linkedin&logoColor=f5f1ea&labelColor=12110f" alt="LinkedIn" /></a>
 <a href="https://github.com/BeastNectus"><img src="https://img.shields.io/badge/GitHub-BeastNectus-c8aa6e?style=for-the-badge&logo=github&logoColor=f5f1ea&labelColor=12110f" alt="GitHub" /></a>
-<a href="mailto:beastnectus@gmail.com"><img src="https://img.shields.io/badge/Email-beastnectus%40gmail.com-c8aa6e?style=for-the-badge&logo=gmail&logoColor=f5f1ea&labelColor=12110f" alt="Email" /></a>
+<a href="mailto:johnmamanao.dev@gmail.com"><img src="https://img.shields.io/badge/Email-johnmamanao.dev%40gmail.com-c8aa6e?style=for-the-badge&logo=gmail&logoColor=f5f1ea&labelColor=12110f" alt="Email" /></a>
 
 </div>
 
